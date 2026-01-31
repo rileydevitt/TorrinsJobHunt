@@ -1,27 +1,24 @@
-# Flappy Bird Clone
+# Torrin's Job Hunt
 
-A simple Flappy Bird clone created with Python and Pygame.
+### Setup
 
-## Setup
-
-1. Make sure you have Python 3.7+ installed
-2. Install the required dependencies:
+1. Install the required dependencies:
    ```
    pip3 install -r requirements.txt
    ```
-3. Run the game:
+2. Run the game:
    ```
    python3 flappy_bird.py
    ```
 
-## How to Play
+### How to Play
 
 - Press SPACE to make the bird flap
 - Avoid the pipes
 - Try to get the highest score possible!
 
-## Controls
+### Controls
 
 - SPACE: Flap
 - ESC: Quit game
-- R: Restart game (after game over) 
+- R: Restart game 
